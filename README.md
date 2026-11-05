@@ -5,7 +5,7 @@
 **İncelenen platform:** [Afyon Kocatepe Üniversitesi resmî web sitesi](https://aku.edu.tr/)  
 **Üniversite:** Afyon Kocatepe Üniversitesi  
 **Ders:** İnsan-Bilgisayar Etkileşimi  
-**Ders sorumlusu (raporda belirtilen):** Doç. Dr. Fatih Özdinç  
+**Ders sorumlusu :** Doç. Dr. Fatih Özdinç  
 **Çalışma türü:** Akademik ekip projesi · Kullanılabilirlik testi · Kullanıcı araştırması
 
 > Bu depo, bir üniversite dersinde yürütülen **bağımsız öğrenci çalışmasını** belgeler. Üniversitenin resmî bir denetimi, ölçümü veya onayı değildir. İnceleme sonuçları testin yapıldığı dönemdeki arayüz ve katılımcı grubu için geçerlidir.
